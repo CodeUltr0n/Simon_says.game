@@ -33,7 +33,10 @@ A classic **Simon Says** memory game built using **HTML, CSS, and JavaScript**. 
 5️⃣ **One wrong move? Game over! Try again and beat your high score!**  
 
 ---
+##🌐 Play Now
 
+##🔗 Play the Game Here
+http://127.0.0.1:5500/simongame.html
 
 ---
 
